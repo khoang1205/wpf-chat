@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\Chat App console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87F88726-6FC4-4A26-9AC7-5EF957E85326}|prn222\\prn222.csproj|c:\\users\\acer\\source\\repos\\chat app console\\prn222\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87F88726-6FC4-4A26-9AC7-5EF957E85326}|prn222\\prn222.csproj|solutionrelative:prn222\\chatserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC7DCAF-E3D2-4259-98E6-12901E2F9939}|ChatClient\\ChatClient.csproj|c:\\users\\acer\\source\\repos\\chat app console\\chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BC7DCAF-E3D2-4259-98E6-12901E2F9939}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BC7DCAF-E3D2-4259-98E6-12901E2F9939}|ChatClient\\ChatClient.csproj|c:\\users\\acer\\source\\repos\\chat app console\\chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BC7DCAF-E3D2-4259-98E6-12901E2F9939}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87F88726-6FC4-4A26-9AC7-5EF957E85326}|prn222\\prn222.csproj|c:\\users\\acer\\source\\repos\\chat app console\\prn222\\prn222.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87F88726-6FC4-4A26-9AC7-5EF957E85326}|prn222\\prn222.csproj|solutionrelative:prn222\\prn222.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Chat App console\\ChatClient\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Chat App console\\ChatClient\\MainWindow.xaml",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-27T19:20:02.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Chat App console\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ChatClient\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Chat App console\\ChatClient\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ChatClient\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T19:10:09.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prn222.csproj",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Chat App console\\prn222\\prn222.csproj",
+              "RelativeDocumentMoniker": "prn222\\prn222.csproj",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Chat App console\\prn222\\prn222.csproj",
+              "RelativeToolTip": "prn222\\prn222.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-27T18:07:45.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatServer.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\Chat App console\\prn222\\ChatServer.cs",
+              "RelativeDocumentMoniker": "prn222\\ChatServer.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\Chat App console\\prn222\\ChatServer.cs",
+              "RelativeToolTip": "prn222\\ChatServer.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAnwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T02:40:01.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{28836128-fc2c-11d2-a433-00c04f72d18a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

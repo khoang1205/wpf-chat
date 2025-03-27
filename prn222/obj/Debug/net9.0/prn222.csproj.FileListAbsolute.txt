@@ -1,0 +1,34 @@
+C:\Users\ACER\source\repos\prn222\prn222\bin\Debug\net9.0\prn222.exe
+C:\Users\ACER\source\repos\prn222\prn222\bin\Debug\net9.0\prn222.deps.json
+C:\Users\ACER\source\repos\prn222\prn222\bin\Debug\net9.0\prn222.runtimeconfig.json
+C:\Users\ACER\source\repos\prn222\prn222\bin\Debug\net9.0\prn222.dll
+C:\Users\ACER\source\repos\prn222\prn222\bin\Debug\net9.0\prn222.pdb
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.AssemblyInfo.cs
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.dll
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\refint\prn222.dll
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.pdb
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\prn222.genruntimeconfig.cache
+C:\Users\ACER\source\repos\prn222\prn222\obj\Debug\net9.0\ref\prn222.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\refint\prn222.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.pdb
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\prn222.exe
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\prn222.deps.json
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\prn222.runtimeconfig.json
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\prn222.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\prn222.pdb
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\OpenAI.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.csproj.Up2Date
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\prn222.genruntimeconfig.cache
+C:\Users\ACER\source\repos\Chat App console\prn222\obj\Debug\net9.0\ref\prn222.dll

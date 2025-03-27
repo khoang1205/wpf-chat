@@ -1,0 +1,38 @@
+[2025-01-15 10:57:05] Server started
+[2025-01-15 10:59:07] User has joined the room Room1
+[2025-01-15 10:59:07] User: User has joined the room.
+[2025-01-15 10:59:36] User has left the room Room1
+[2025-01-15 10:59:36] User: User has left the room.
+[2025-01-15 10:59:36] User has joined the room Room2
+[2025-01-15 10:59:36] User: User has joined the room.
+[2025-01-15 10:59:42] User has left the room Room2
+[2025-01-15 10:59:42] User: User has left the room.
+[2025-01-15 10:59:42] User has joined the room Room1
+[2025-01-15 10:59:42] User: User has joined the room.
+[2025-01-15 11:01:14] Error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-01-15 11:01:14] User has left the room Room1
+[2025-01-15 11:01:14] User: User has left the room.
+[2025-01-15 11:20:44] Server started on port 5000.
+[2025-01-15 11:21:56] Server started on port 12345.
+[2025-01-15 11:23:55] Server started on port 12345.
+[2025-01-15 11:24:02] User has joined the chat.
+[2025-01-15 11:24:10] User has left the chat.
+[2025-01-15 11:24:32] Server started
+[2025-01-15 11:24:37] User has joined the room Room1
+[2025-01-15 11:24:37] User: User has joined the room.
+[2025-01-15 11:24:45] Error: Unable to read data from the transport connection: An existing connection was forcibly closed by the remote host..
+[2025-01-15 11:24:45] User has left the room Room1
+[2025-01-15 11:24:45] User: User has left the room.
+[2025-01-15 11:25:07] Server started
+[2025-01-15 11:25:12] User has joined the room Room1
+[2025-01-15 11:25:12] User: User has joined the room.
+[2025-02-12 21:45:40] Server started
+[2025-03-28 01:41:39] Server started
+[2025-03-28 01:47:53] Server started
+[2025-03-28 02:11:10] Server started
+[2025-03-28 02:11:47] Server started
+[2025-03-28 02:14:54] Server started
+[2025-03-28 02:17:33] Server started
+[2025-03-28 02:19:03] Server started
+[2025-03-28 02:22:46] Server started
+[2025-03-28 02:26:42] Server started
